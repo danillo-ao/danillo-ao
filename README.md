@@ -24,6 +24,7 @@ Clique na imagem de cada projeto para abrir o repositório.
       </a>
       <h3><a href="https://github.com/danillo-ao/puppet-mk-releases">Puppet Mouse Keyboard</a></h3>
       <p>Compartilhe um mesmo teclado e mouse entre vários computadores na sua rede local. macOS, Windows e Linux.</p>
+      <img src="https://img.shields.io/badge/with-AI-green?logo=code" alt="ai-badge" />
       <img src="https://img.shields.io/github/stars/danillo-ao/puppet-mk-releases?style=flat-square" alt="stars" />
     </td>
     <td align="center" width="50%">
@@ -32,6 +33,7 @@ Clique na imagem de cada projeto para abrir o repositório.
       </a>
       <h3><a href="https://github.com/danillo-ao/umbrel-store">Danillo App Store</a></h3>
       <p>Loja comunitária para o umbrelOS, com os meus apps: homesync, firelink e bonfire.</p>
+      <img src="https://img.shields.io/badge/with-AI-green?logo=code" alt="ai-badge" />
       <img src="https://img.shields.io/github/stars/danillo-ao/umbrel-store?style=flat-square" alt="stars" />
     </td>
   </tr>
@@ -42,6 +44,7 @@ Clique na imagem de cada projeto para abrir o repositório.
       </a>
       <h3><a href="https://github.com/danillo-ao/bonfire-releases">Bonfire Desktop</a></h3>
       <p>Backups automáticos (restic) das pastas do seu computador para o seu Umbrel.</p>
+      <img src="https://img.shields.io/badge/with-AI-green?logo=code" alt="ai-badge" />
       <img src="https://img.shields.io/github/stars/danillo-ao/bonfire-releases?style=flat-square" alt="stars" />
     </td>
     <td align="center" width="50%">
@@ -50,6 +53,7 @@ Clique na imagem de cada projeto para abrir o repositório.
       </a>
       <h3><a href="https://github.com/danillo-ao/arcanum-releases">Arcanum</a></h3>
       <p>Editor de livros com o essencial: binder, editor, notas, pesquisa, variáveis e compilação.</p>
+      <img src="https://img.shields.io/badge/with-AI-green?logo=code" alt="ai-badge" />
       <img src="https://img.shields.io/github/stars/danillo-ao/arcanum-releases?style=flat-square" alt="stars" />
     </td>
   </tr>
