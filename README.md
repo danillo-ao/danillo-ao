@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://danillo.dev/"><img src="https://img.shields.io/badge/Portfólio-danillo.dev-000?logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="https://linkedin.com/in/danilloliveira"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discord.gg/DanilloAO"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
+
 </p>
 
 ---
